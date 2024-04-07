@@ -1,5 +1,9 @@
 # Learn Go
 
+## Resources
+- [Learn GO by Alex Mux](https://www.youtube.com/watch?v=8uiZC0l4Ajw&t=255s)
+- [Golang Project Layout](https://github.com/golang-standards/project-layout)
+
 ## Six Main Points
 1. Statically Typed Language
 2. Strongly Typed Language
